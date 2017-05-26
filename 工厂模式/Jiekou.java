@@ -1,0 +1,4 @@
+interface Jiekou
+{
+	void dx();
+}
